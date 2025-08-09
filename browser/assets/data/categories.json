@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "General",
+    "slug": "general",
+    "description": "General posts and thoughts",
+    "postCount": 1
+  },
+  {
+    "id": "2",
+    "name": "Development",
+    "slug": "development", 
+    "description": "Web development tutorials and insights",
+    "postCount": 2
+  },
+  {
+    "id": "3",
+    "name": "Tutorial",
+    "slug": "tutorial",
+    "description": "Step-by-step tutorials and guides",
+    "postCount": 2
+  },
+  {
+    "id": "4",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Technology trends and insights",
+    "postCount": 1
+  }
+]

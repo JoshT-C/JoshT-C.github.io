@@ -1,0 +1,16 @@
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="portraitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#portraitBg)"/>
+  <rect x="50" y="100" width="300" height="400" fill="#2C3E50" rx="10"/>
+  <rect x="70" y="120" width="260" height="200" fill="#34495E"/>
+  <circle cx="200" cy="220" r="60" fill="#E74C3C"/>
+  <rect x="120" y="350" width="160" height="20" fill="#3498DB"/>
+  <rect x="140" y="390" width="120" height="15" fill="#F39C12"/>
+  <rect x="160" y="420" width="80" height="15" fill="#2ECC71"/>
+  <polygon points="200,160 220,180 200,200 180,180" fill="#9B59B6"/>
+</svg>
