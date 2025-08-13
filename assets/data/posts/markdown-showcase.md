@@ -1,17 +1,17 @@
 ---
 title: GitHub Markdown Showcase
 slug: markdown-showcase
-excerpt: A comprehensive showcase of GitHub-flavored markdown features including code highlighting, tables, task lists, and more.
+excerpt: A showcase of my websites markdown capabilities
 author: Joshua T-C
 publishedDate: 2024-01-16
-tags: ["markdown", "github", "showcase", "demo"]
+tags: ["markdown"]
 category: Documentation
 featured: true
 ---
 
 # GitHub Markdown Showcase :rocket:
 
-This document demonstrates all the GitHub-flavored markdown features supported by our new markdown interpreter.
+This document demonstrates all the GitHub-flavored markdown features supported by my markdown interpreter.
 
 ## Text Formatting
 
@@ -243,5 +243,3 @@ Here's a more complex example showing multiple features together:
 - [x] Text formatting
 
 ---
-
-That's a comprehensive overview of our GitHub-flavored markdown implementation! :rocket:
