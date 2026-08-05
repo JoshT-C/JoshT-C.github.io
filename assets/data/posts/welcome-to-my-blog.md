@@ -1,9 +1,9 @@
 ---
-title: Welcome to My Blog
-slug: welcome-to-my-blog
-excerpt: This is the first post on my blog.
+title: The Hollow Middle
+slug: the-hollow-middle
+excerpt: 
 author: Joshua T-C
-publishedDate: 2024-01-15
+publishedDate: 2025-10-09
 tags: ["first-post"]
 category: General
 featured: true
